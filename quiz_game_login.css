@@ -1,0 +1,28 @@
+.body_background 
+{
+    background-color:aquamarine;
+    text-align: center;
+    
+}
+
+#player1_input, #player2_input
+{
+background-color:lightskyblue;
+color:blue
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+background-position:center;
+}
+
+#login
+{
+background-position: center;
+}

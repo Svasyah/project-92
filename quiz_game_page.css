@@ -1,0 +1,39 @@
+body
+{
+    background-color:rgb(176, 97, 255)
+}
+#output
+{
+
+background: rgb(0, 250, 183);
+border-radius: 10px;
+border-top: 10px solid #7300ff;
+padding: 10px;
+float: none;
+text-align: left;
+background-position:center;
+width: 40%;
+}
+
+#question
+{
+color:#001aff
+
+}
+
+#player_answer2
+{
+background-color: blue;
+color: lightskyblue;
+}
+
+#inputs
+{
+    background-color: rgb(255, 119, 0);
+    color: rgb(250, 210, 135);
+}
+
+#player1_name, #player2_name, #player1_score, #player2_score
+{
+color: aliceblue;
+}
